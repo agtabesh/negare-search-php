@@ -1,0 +1,1 @@
+# negare-search-php-library
